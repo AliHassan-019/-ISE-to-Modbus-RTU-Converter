@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=C_AVDD Pin=J2-01
+Removed Pin From Net: NetName=RESETn Pin=J2-09
+Added Pin To Net: NetName=RESETn Pin=J2-01
+Added Pin To Net: NetName=C_AVDD Pin=J2-09

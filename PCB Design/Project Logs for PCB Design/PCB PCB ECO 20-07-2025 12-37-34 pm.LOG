@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SWDIO Pin=J2-03
+Removed Pin From Net: NetName=SWCLK Pin=J2-05
+Added Pin To Net: NetName=SWCLK Pin=J2-03
+Added Pin To Net: NetName=SWDIO Pin=J2-05
+Added Member To Class: ClassName=Schematics Member=Component C12 C1005X7R1H104K050BB
