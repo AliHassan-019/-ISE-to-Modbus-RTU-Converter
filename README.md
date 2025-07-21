@@ -1,7 +1,4 @@
-<!-- PROJECT LOGO -->
-<p align="center">
-  <img src="images/logo.png" alt="Project Logo" width="120" height="120">
-</p>
+
 
 <h1 align="center">ISE-to-Modbus-RTU-Converter</h1>
 
@@ -92,18 +89,7 @@ An RS-485 transceiver with direction control enables robust Modbus RTU communica
 ### Layout & Decoupling
 All blocks are decoupled with high-frequency capacitors, with careful separation of analog and digital ground planes. EMI filters and ferrite beads are used to suppress noise and ensure signal integrity.
 
----
 
-## 🗺️ Schematic
-
-
-<p align="center">
-  <img src="https://github.com/AliHassan-019/ISE-to-Modbus-RTU-Converter/blob/main/Images/Schematics.png" alt="Schematics" width="800">
-</p>
-
-The schematic is organized into functional sections: power input/protection, regulation, microcontroller, analog front-end, ADC, and communication. Clear net naming and labeling facilitate easy signal tracing and debugging.
-
----
 
 ## 🧩 PCB Design & Stack-Up
 
