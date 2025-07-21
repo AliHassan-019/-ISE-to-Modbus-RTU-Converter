@@ -67,10 +67,10 @@ graph TD;
 
 ---
 
-## 🖥️ Block Diagram
+## 🖥️ Schematic
 
 <p align="center">
-  <img src="images/block_diagram.png" alt="Block Diagram" width="600">
+  <img src="https://github.com/AliHassan-019/ISE-to-Modbus-RTU-Converter/blob/main/Images/Schematics.png" alt="Schematic" width="600">
 </p>
 
 ---
@@ -98,7 +98,7 @@ All blocks are decoupled with high-frequency capacitors, with careful separation
 
 
 <p align="center">
-  <img src="images/Schematics.png" alt="Schematics" width="800">
+  <img src="https://github.com/AliHassan-019/ISE-to-Modbus-RTU-Converter/blob/main/Images/Schematics.png" alt="Schematics" width="800">
 </p>
 
 The schematic is organized into functional sections: power input/protection, regulation, microcontroller, analog front-end, ADC, and communication. Clear net naming and labeling facilitate easy signal tracing and debugging.
@@ -123,37 +123,37 @@ This project uses a 4-layer PCB for optimal signal integrity and EMI performance
 
 ### Top 3D View
 <p align="center">
-  <img src="images/top%203d%20view.png" alt="Top 3D View" width="600">
+  <img src="https://github.com/AliHassan-019/ISE-to-Modbus-RTU-Converter/blob/main/Images/top%203d%20view.png" alt="Top 3D View" width="600">
 </p>
 This view shows the populated top side, including the MCU, ADC, protection, and filtering components. Placement is optimized for signal flow and manufacturability.
 
 ### Bottom 3D View
 <p align="center">
-  <img src="images/bottom%203d%20view.png" alt="Bottom 3D View" width="600">
+  <img src="https://github.com/AliHassan-019/ISE-to-Modbus-RTU-Converter/blob/main/Images/bottom%203d%20view.png" alt="Bottom 3D View" width="600">
 </p>
 The bottom side contains SMD passives, vias, and traces, kept clean for soldering and signal routing.
 
 ### Top Layer
 <p align="center">
-  <img src="images/top%20layer.png" alt="Top Layer" width="600">
+  <img src="https://github.com/AliHassan-019/ISE-to-Modbus-RTU-Converter/blob/main/Images/top%20layer.png" alt="Top Layer" width="600">
 </p>
 Main analog and digital signal routing, with careful clearance between domains.
 
 ### Inner Ground Layer
 <p align="center">
-  <img src="images/inner%20gnd%20layer.png" alt="Inner GND Layer" width="600">
+  <img src="https://github.com/AliHassan-019/ISE-to-Modbus-RTU-Converter/blob/main/Images/inner%20gnd%20layer.png" alt="Inner GND Layer" width="600">
 </p>
 Solid copper pour for low-impedance return and shielding.
 
 ### Inner Power Layer
 <p align="center">
-  <img src="images/inner%20pwr%20layer.png" alt="Inner Power Layer" width="600">
+  <img src="https://github.com/AliHassan-019/ISE-to-Modbus-RTU-Converter/blob/main/Images/inner%20pwr%20layer.png" alt="Inner Power Layer" width="600">
 </p>
 Dedicated to analog and digital power rails, minimizing voltage drop and noise.
 
 ### Bottom Layer
 <p align="center">
-  <img src="images/bottom%20layer.png" alt="Bottom Layer" width="600">
+  <img src="https://github.com/AliHassan-019/ISE-to-Modbus-RTU-Converter/blob/main/Images/bottom%20layer.png" alt="Bottom Layer" width="600">
 </p>
 Routes non-critical signals, test points, debug, and low-priority GPIOs.
 
