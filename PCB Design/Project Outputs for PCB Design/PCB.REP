@@ -73,7 +73,7 @@ Generating : PWR
 
 
 Used DCodes :
-    D30
+    D10
     D33
     D34
     D35
@@ -93,10 +93,10 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D11
-    D23
-    D26
-    D29
+    D10
+    D12
+    D24
+    D27
     D30
     D33
     D34
@@ -154,13 +154,13 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D11
-    D19
-    D23
-    D26
+    D12
+    D20
+    D24
     D27
     D28
     D29
+    D30
     D50
     D51
     D52
@@ -196,10 +196,10 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D11
-    D23
-    D26
-    D29
+    D12
+    D24
+    D27
+    D30
     D42
     D43
     D63
@@ -226,9 +226,8 @@ Generating : Top Paste
 
 
 Used DCodes :
-    D10
     D11
-    D13
+    D12
     D14
     D15
     D16
@@ -245,6 +244,7 @@ Used DCodes :
     D27
     D28
     D29
+    D30
     D73
 *************************************************************
 
@@ -260,10 +260,10 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D11
-    D23
-    D26
-    D29
+    D12
+    D24
+    D27
+    D30
     D41
     D44
     D74
@@ -302,5 +302,33 @@ Used DCodes :
     D83
     D84
     D85
+    D86
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PCB_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D48
+    D88
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PCB_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D48
 *************************************************************
 

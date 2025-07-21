@@ -14,11 +14,13 @@ From  : Variant [[No Variations]] of Project [PCB Design.PrjPcb]
    Generated File[PCB_Profile.gbr]
    Generated File[PCB_NPTH_Drill.gbr]
    Generated File[PCB_PTH_Drill.gbr]
+   Generated File[PCB_Drawing_1.gbr]
+   Generated File[PCB_Drillmap_1.gbr]
    Generated File[PCB.EXTREP]
    Generated File[PCB.REP]
 
 
-Files Generated   : 15
+Files Generated   : 17
 Documents Printed : 0
 
-Finished Output Generation At 6:33:51 pm On 20/07/2025
+Finished Output Generation At 8:19:59 pm On 21/07/2025
